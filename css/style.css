@@ -24,8 +24,8 @@ header{
 }
 img{
     margin-top: 10px;
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 100% !important;
+    max-height: 100% !important;
 }
 h1{
     font-family: 'lobster', cursive;
