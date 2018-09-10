@@ -88,6 +88,8 @@ footer{
 @media screen and (max-width: 500px){
     img {
         padding:  20px 0px;
+        max-width: 100%;
+        max-height: 100%;
     }
     h1 {
         margin:   20px 0px;
